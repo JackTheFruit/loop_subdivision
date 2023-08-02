@@ -13,4 +13,4 @@ Run the following commands in your bash terminal
 2. make
 3. Subdivision <input_file_path> <output_file_path>
 
-Both input and output files should be .obj file formats.
+Both input and output files should be .obj file formats. Example files are provided in the ./Data folder.
